@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="willkommens_gruss">Herzlich Willkommen \nWir freuen uns, \ndass mit uns Ihre nächste Reise buchen</string>
+    <string name="weiter_leitung">Los gehts</string>
+
+    <string name="nutzer_daten_einleitung">Bitte geben Sie hier Ihre Rahmendaten an</string>
+    <string name="datum_von">Datum von</string>
+    <string name="datum_bis">bis</string>
+    <string name="target_country">Zielort</string>
+    <string name="erwachsene">Erwachsene</string>
+    <string name="kinder">Kinder</string>
+    <string name="tiere">Tiere</string>
+    <string name="preis_min">Preis von</string>
+    <string name="preis_max">bis</string>
+    <string name="email">E-Mail</string>
+    <string name="weiter">Weiter</string>
+</resources>
